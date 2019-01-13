@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/HCI-Project-Website/precache-manifest.85458d02a2de2b704ff75b53ed24b8ef.js"
+  "/evento-website/precache-manifest.4f1dc7774a0b2a8a241af8354d0dccbf.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/HCI-Project-Website/index.html", {
+workbox.routing.registerNavigationRoute("/evento-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
