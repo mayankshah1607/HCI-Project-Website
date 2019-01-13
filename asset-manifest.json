@@ -1,7 +1,7 @@
 {
   "main.css": "/evento-website/static/css/main.46b39e79.chunk.css",
-  "main.js": "/evento-website/static/js/main.d9dd11f4.chunk.js",
-  "main.js.map": "/evento-website/static/js/main.d9dd11f4.chunk.js.map",
+  "main.js": "/evento-website/static/js/main.15fd8114.chunk.js",
+  "main.js.map": "/evento-website/static/js/main.15fd8114.chunk.js.map",
   "static/css/1.d87d2c02.chunk.css": "/evento-website/static/css/1.d87d2c02.chunk.css",
   "static/js/1.4db42d92.chunk.js": "/evento-website/static/js/1.4db42d92.chunk.js",
   "static/js/1.4db42d92.chunk.js.map": "/evento-website/static/js/1.4db42d92.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.46b39e79.chunk.css.map": "/evento-website/static/css/main.46b39e79.chunk.css.map",
   "static/css/1.d87d2c02.chunk.css.map": "/evento-website/static/css/1.d87d2c02.chunk.css.map",
   "index.html": "/evento-website/index.html",
-  "precache-manifest.4f1dc7774a0b2a8a241af8354d0dccbf.js": "/evento-website/precache-manifest.4f1dc7774a0b2a8a241af8354d0dccbf.js",
+  "precache-manifest.51b66abf8318da4088be93e8164a35a6.js": "/evento-website/precache-manifest.51b66abf8318da4088be93e8164a35a6.js",
   "service-worker.js": "/evento-website/service-worker.js"
 }
