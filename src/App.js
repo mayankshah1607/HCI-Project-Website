@@ -27,7 +27,7 @@ class App extends Component {
               params={particleOptions}
             />
         <h1 className='white'>Question Answering Chatbot System</h1>
-        <p className='white f4 fw4'>Human-Computer Interaction project by <strong>Mayank M Shah</strong> and <strong>Rushikesh Deotale</strong></p>
+        <p className='white f4 fw4'>Human-Computer Interaction project by <strong>IEEE-VIT</strong></p>
         <ChatScreen/>
       </div>
     );
