@@ -1,4 +1,3 @@
-# HCI-Project-Website
-Project for CSE4015 - Human-Computer Interaction
+# Evento Project Website
 
-Full website at - https://mayankshah1607.github.io/HCI-Project-Website/
+Full website at - https://mayankshah1607.github.io/evento-website/
